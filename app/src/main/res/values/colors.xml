@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#D23F31</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="ColorHighlight">#A5A5A3</color>
+    <color name="lightBlack">#757476</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#757575</color>
+    <color name="highlightedTextColor">#536DFE</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="transparentColor">#80FFFFFF</color>
+    <color name="blackColor">#000000</color>
+
+    <!-- Metarial Color Code -->
+
+    <color name="metarial_color_code_red">#F44336</color>
+    <color name="metarial_color_code_pink">#E91E63</color>
+    <color name="metarial_color_code_purple">#9C27B0</color>
+    <color name="metarial_color_code_deep_purple">#673AB7</color>
+    <color name="metarial_color_code_indigo">#3F51B5</color>
+    <color name="metarial_color_code_blue">#2196F3</color>
+    <color name="metarial_color_code_light_blue">#03A9F4</color>
+    <color name="metarial_color_code_cyan">#00BCD4</color>
+    <color name="metarial_color_code_teal">#009688</color>
+    <color name="metarial_color_code_green">#4CAF50</color>
+    <color name="metarial_color_code_light_green">#8BC34A</color>
+    <color name="metarial_color_code_lime">#CDDC39</color>
+    <color name="metarial_color_code_yellow">#FFEB3B</color>
+    <color name="metarial_color_code_amber">#FFC107</color>
+    <color name="metarial_color_code_orange">#FF9800</color>
+    <color name="metarial_color_code_deep_orange">#FF5722</color>
+    <color name="metarial_color_code_brown">#795548</color>
+    <color name="metarial_color_code_grey">#9E9E9E</color>
+    <color name="metarial_color_code_blue_grey">#607D8B</color>
+
+</resources>
